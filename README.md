@@ -71,4 +71,4 @@ Chaque classe implémente une méthode `To_csv()` pour sauvegarder les informati
 Pour exécuter ce projet :
 1. Clonez le dépôt : 
    ```bash
-   git clone https://github.com/votre-utilisateur/TransConnect.git
+   git clone https://github.com/Sevane7/TransConnect.git
